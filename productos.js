@@ -1,0 +1,57 @@
+ const stockProductos = [{
+         "id": "1",
+         "nombre": "Hamburguesa 1",
+         "precio": 500,
+         "imagen": "imagenes/burgue1.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "2",
+         "nombre": "Hamburguesa 2",
+         "precio": 500,
+         "imagen": "imagenes/burgue1.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "3",
+         "nombre": "Hamburguesa 3",
+         "precio": 500,
+         "imagen": "imagenes/burgue1.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "4",
+         "nombre": "Hamburguesa 4",
+         "precio": 500,
+         "imagen": "imagenes/burgue1.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "5",
+         "nombre": "Hamburguesa 5",
+         "precio": 500,
+         "imagen": "imagenes/burguer-2.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "6",
+         "nombre": "Hamburguesa 6",
+         "precio": 500,
+         "imagen": "imagenes/burguer-2.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "7",
+         "nombre": "Hamburguesa 7",
+         "precio": 500,
+         "imagen": "imagenes/burguer-2.jpg",
+         "cantidad": 1
+     },
+     {
+         "id": "8",
+         "nombre": "Hamburguesa 8",
+         "precio": 500,
+         "imagen": "imagenes/burguer-2.jpg",
+         "cantidad": 1
+     }
+ ]
